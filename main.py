@@ -54,7 +54,7 @@ def train_GANs(args, images, ground_truth, device):
         Nets[f'D_{m}'].to(device)
 
         Nets[f'G_{m}'].train()
-        Nets[f'D_{m}'].train()
+        Nets[f'D_{m}'].train() 
 
         with tqdm(total = args.epochs) as progress_bar:
             for epoch in range(args.epochs):
