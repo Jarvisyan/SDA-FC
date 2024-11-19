@@ -1,5 +1,7 @@
 # SDA-FC
-Implementation of paper ["Federated clustering with GAN-based data synthesis"](https://arxiv.org/abs/2210.16524)
+Implementation of paper ["Federated clustering with GAN-based data synthesis"](https://arxiv.org/abs/2210.16524). 
+
+If federated clustering (FC) piques your interest, then this FC Zoo is well worth a look, accessible here: https://github.com/Jarvisyan/Federated-Clustering.
 
 # Requirements:
 * Python: 3.8
